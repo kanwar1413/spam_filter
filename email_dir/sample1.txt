@@ -1,0 +1,12 @@
+Subject: Team Meeting Reminder
+From: hr@companydomain.com
+To: john.doe@companydomain.com
+Date: September 26, 2024
+
+Hi John,
+
+This is a reminder about the team meeting scheduled for Friday, September 27 at 10:00 AM in Conference Room A. Please come prepared with the project updates. Let us know if you cannot attend.
+
+Best regards,
+HR Team
+Company Name

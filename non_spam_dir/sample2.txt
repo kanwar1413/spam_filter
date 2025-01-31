@@ -1,0 +1,12 @@
+Subject: Welcome to Our Newsletter!
+From: info@trustedbrand.com
+To: jane.smith@domain.com
+Date: September 25, 2024
+
+Hi Jane,
+
+Thank you for subscribing to our newsletter! We’re excited to have you onboard. Stay tuned for the latest updates, exclusive deals, and more from our team.
+
+Best regards,
+The Trusted Brand Team
+
